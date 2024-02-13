@@ -57,7 +57,7 @@ def printPoly(t_x, p_x):
 
     return polyStr
 
-def cacPoly(xVal, t_x, p_x):
+def calcPoly(xVal, t_x, p_x):
     retValue = 0
 
     for i in range(len(px)):

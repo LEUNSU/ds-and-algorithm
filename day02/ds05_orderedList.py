@@ -42,7 +42,6 @@ if __name__ == '__main__':
     print(pxValue)
 
 
-
 ## 함수 선언 부분
 def printPoly(t_x, p_x):
     polyStr = 'P(x) = '

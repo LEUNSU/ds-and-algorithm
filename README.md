@@ -18,6 +18,7 @@
     - 스택 : Last In First Out(LIFO)
         - pop - list.pop()
         - push - list.append()와 동일
+        
     ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
 
     - 큐 : First In First Out(FIFO)

@@ -22,14 +22,14 @@
     ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
 
     - 큐 : First In First Out(FIFO)
-    
+
     ![queue](https://raw.githubusercontent.com/LEUNSU/ds-and-algorithm-2024/main/images/queue.png)
 
 ## 4일차
 - 파이썬 자료구조
+    - 큐 다시 
     - 트리
     - 그래프
-
 
 ## 5일차
 

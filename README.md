@@ -20,13 +20,13 @@
 - 파이썬 자료구조
     - 단순 연결 리스트 다시
     - 원형 연결 리스트(패스) : 마지막 노드가 첫 노드와 연결
-    - 스택 : Last In First Out(LIFO)
+    - 스택 : Last In First Out(LIFO) <- Breadth First Search(BFS)
         - pop - list.pop()
         - push - list.append()와 동일
         
     ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
 
-    - 큐 : First In First Out(FIFO)
+    - 큐 : First In First Out(FIFO) <- Depth First Search(DFS)
 
     ![queue](https://raw.githubusercontent.com/LEUNSU/ds-and-algorithm-2024/main/images/queue.png)
 
